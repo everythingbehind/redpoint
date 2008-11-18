@@ -1,0 +1,13 @@
+---
+layout: post
+title: Choosing music for a video production
+---
+
+h3. {{ page.title }}
+
+"Ben":http://www.bengrubb.co.uk recently posted about our climbing movie that we have been working on over the past 3 months. Obviously a climbing film doesn't have too much dialogue, maybe a few grunts and groans with the odd expletive thrown in for good measure, so music plays a big part. Bigup Productions who are probably the forerunners in climbing media have superb soundtracks, you can hear them for yourselves here. Just taking a cursory glance, you won't see many (if any) artists you recognise, there are probably a couple of reasons for this 1) mainstream music = expensive royalties 2) most of the music is instrumental and hence probably not in the mainstream. There is lots of good obscure music out there, it's not always easy to find - there are some good resources that can help though...
+* Music blogs - "elbo.ws":http://www.elbo.ws, "aurgasm":http://aurgasm.us/
+* iTunes - the 'Listeners also bought' function is very good for stumbling upon good music.
+
+
+

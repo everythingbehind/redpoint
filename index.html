@@ -1,0 +1,25 @@
+---
+layout: default
+title: redpoint
+---
+
+<div id='content' class='span-12 append-2'>
+  <div id='blog'>
+    <h2>blog</h2>
+    <ul class='posts'>
+      {% for post in site.posts %}
+        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div id='video'>
+    <h2>video</h2>
+  </div>
+</div>
+
+<div id='front-post' class='span-10 last'>
+  {{ site.posts.first.content }}
+</div>
+
+
